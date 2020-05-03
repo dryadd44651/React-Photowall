@@ -1,19 +1,21 @@
 # React-Photowall
 
-Build a sophisticated Photowall Web Application with React, Redux and CSS
+## Instagram-like Web App
 
-Use Redux to manage data, make it more predictable and easier to debug.
+- Build a sophisticated Photowall Web Application with React, Redux and CSS
 
-Connect application to Firebase, a powerful database.
+- Use Redux to manage data, make it more predictable and easier to debug.
 
-Use React Router to navigate through application
+- Connect application to Firebase, a powerful database.
 
-Create Class Components
+- Use React Router to navigate through application
 
-Use JSX to build User Interface
+- Create Class Components
 
-Use Props to pass Data
+- Use JSX to build User Interface
 
-Compartmentalize web page into Components
+- Use Props to pass Data
 
-Update Component State to ensure responsive and interactive applications.
+- Compartmentalize web page into Components
+
+- Update Component State to ensure responsive and interactive applications.
